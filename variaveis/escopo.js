@@ -9,5 +9,17 @@ global: variáveis declaradas fora de qualquer função ou bloco de código
 bloco: acessíveis apenas dentro do bloco de código onde foram declaradas
 -> let e const
 
+Var = escopo global ; function scope
+
+Let = function scope ; block scope ; podem ser reatibuidas
+
+
+Const = function scope ; block scope ;
+
+
+
+
+Let e const - mais controle do código
+
 
 */
