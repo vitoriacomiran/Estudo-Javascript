@@ -1,6 +1,6 @@
 # 🚀 Estudos de JavaScript
 
-Este repositório foi criado com o objetivo de organizar e consolidar meus estudos sobre JavaScript, focando principalmente na lógica de programação e nos fundamentos da linguagem. Cada pasta contém arquivos com exemplos práticos e anotações que me ajudam a aprender de forma ativa e estruturada.
+Este repositório foi criado com o objetivo de organizar e consolidar meus estudos sobre JavaScript, focando principalmente nos fundamentos da linguagem. Cada pasta contém arquivos com exemplos práticos e anotações que me ajudam a aprender de forma ativa e estruturada.
 
 ---
 
