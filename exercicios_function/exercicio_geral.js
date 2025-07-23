@@ -74,6 +74,22 @@ Se ambos estiverem corretos, retorne "Login bem-sucedido", senão "Usuário ou s
 "Sobrepeso" (IMC entre 25 e 29.9)
 "Obesidade" (IMC >= 30)
 */
+  function calcularIMC(peso, altura){
+    let alturaMetros = altura / 100
+    let imc = peso / (alturaMetros * alturaMetros)
+    return imc
+  if (imc < 18.5){
+    return "Abaixo do peso"
+  } else if (imc >= 18.5 && imc <= 24.9){
+    return "Peso normal"
+  }  else if (imc >= 25 && imc <= 29.9){
+    return "Sobrepeso"
+  } else {
+    return "Obesidade"
+  }
+  }
+
+  console.log(calcularIMC(56, 170))
 
 
   
